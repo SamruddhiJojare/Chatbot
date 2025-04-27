@@ -1,4 +1,4 @@
-# Conversational AI Chatbot using Flask and Transformers 🤖💬
+# Conversational AI Chatbot using Flask and Transformers 
 
 ## Overview  
 This project features a conversational AI chatbot powered by the **Facebook BlenderBot 400M Distill** model from Hugging Face Transformers, which is designed for engaging, natural, and context-aware human-like conversations. The backend is implemented using **Flask**, a lightweight Python web framework, exposing a RESTful API that handles chat requests. This API can be easily integrated with any frontend or external system.
